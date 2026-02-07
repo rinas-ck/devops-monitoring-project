@@ -176,6 +176,7 @@ This confirms successful automation.
 DevOps Engineer  
 
 GitHub: https://github.com/rinas-ck  
+LinkedIn: https://linkedin.com/in/rinas-ck
 
 ---
 
