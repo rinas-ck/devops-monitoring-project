@@ -120,6 +120,8 @@ docker run -d -p 80:5000 devops-app
 
 ---
 
+## 📸 Project Screenshots
+
 
 Screenshots of the architecture, monitoring dashboards, live app and cicd are available in the `/screenshots` folder.
 ---
@@ -140,7 +142,7 @@ Screenshots of the architecture, monitoring dashboards, live app and cicd are av
 ![Application](Screenshots/grafana.png)
 
 ### Prometheus 
-![Alerts](Screenshots/Prometheus.png)
+![Alerts](Screenshots/prometheus.png)
 
 
 
