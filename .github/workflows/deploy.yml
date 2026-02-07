@@ -1,0 +1,37 @@
+name: CI-CD Deployment
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Deploy to EC2
+      uses: appleboy/ssh-action@v0.1.7
+
+      with:
+        host: ${{ secrets.EC2_IP }}
+        username: ubuntu
+        key: ${{ secrets.EC2_KEY }}
+
+        script: |
+          cd ~/devops-monitoring-project
+
+          git pull origin main
+
+          docker stop app || true
+          docker rm app || true
+
+          docker build -t devops-app .
+
+          docker run -d \
+          -p 80:5000 \
+          --name app \
+          devops-app
