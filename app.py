@@ -49,7 +49,8 @@ HTML = """
 
 <h1>🚀 DevOps CI/CD Project</h1>
 
-<p class="badge">LIVE DEPLOYMENT SUCCESS</p>
+<p class="badge">AUTO DEPLOYMENT VERIFIED 🚀
+</p>
 
 <p><b>Server:</b> {{host}}</p>
 <p><b>Time:</b> {{date}}</p>
