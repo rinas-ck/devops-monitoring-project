@@ -135,7 +135,7 @@ Screenshots of the architecture, monitoring dashboards, live app and cicd are av
 ### Terraform-apply
 ![Website](Screenshots/terraform.png)
 
-### GitHub-actiom
+### GitHub-action
 ![Website](Screenshots/github-action.png)
 
 ### Grafana
