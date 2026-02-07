@@ -125,22 +125,22 @@ Screenshots of the architecture, monitoring dashboards, live app and cicd are av
 ---
 
 ### Architecture Diagram
-![Architecture](screenshots/architecture.png)
+![Architecture](Screenshots/architecture.png)
 
 ### Live-app
-![CloudWatch](screenshots/live-app.png)
+![CloudWatch](Screenshots/live-app.png)
 
 ### Terraform-apply
-![Website](screenshots/terraform.png)
+![Website](Screenshots/terraform.png)
 
 ### GitHub-actiom
-![Website](screenshots/github-action.png)
+![Website](Screenshots/github-action.png)
 
 ### Grafana
-![Application](screenshots/grafana.png)
+![Application](Screenshots/grafana.png)
 
 ### Prometheus 
-![Alerts](screenshots/Prometheus.png)
+![Alerts](Screenshots/Prometheus.png)
 
 
 
