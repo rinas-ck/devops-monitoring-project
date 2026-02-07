@@ -120,20 +120,29 @@ docker run -d -p 80:5000 devops-app
 
 ---
 
-## 📸 Screenshots
 
-Display:
-
-```
-![Terraform](screenshots/architecture.png)
-![Terraform](screenshots/terraform.png)
-![GitHub Actions](screenshots/github-actions.png)
-![Live App](screenshots/live-app.png)
-![Grafana](screenshots/grafana.png)
-![Prometheus](screenshots/prometheus.png)
-```
-
+Screenshots of the architecture, monitoring dashboards, live app and cicd are available in the `/screenshots` folder.
 ---
+
+### Architecture Diagram
+![Architecture](screenshots/architecture.png)
+
+### Live-app
+![CloudWatch](screenshots/live-app.png)
+
+### Terraform-apply
+![Website](screenshots/terraform.png)
+
+### GitHub-actiom
+![Website](screenshots/github-action.png)
+
+### Grafana
+![Application](screenshots/grafana.png)
+
+### Prometheus 
+![Alerts](screenshots/Prometheus.png)
+
+
 
 ## ✅ Deployment Verification
 
