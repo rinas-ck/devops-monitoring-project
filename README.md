@@ -195,7 +195,7 @@ This confirms successful automation.
 
 ---
 
-# pipeline test1
+# pipeline test
 
 
 ## 👨‍💻 Author
