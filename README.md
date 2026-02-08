@@ -1,3 +1,28 @@
+<p align="center">
+
+<!-- CI/CD Status -->
+<img src="https://github.com/rinas-ck/devops-monitoring-project/actions/workflows/deploy.yml/badge.svg" />
+
+<!-- Tech Stack -->
+<img src="https://img.shields.io/badge/AWS-EC2%20%7C%20IAM%20%7C%20VPC-orange?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform" />
+<img src="https://img.shields.io/badge/Docker-Containerization-blue?logo=docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-success?logo=githubactions" />
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-red?logo=prometheus" />
+<img src="https://img.shields.io/badge/Grafana-Dashboards-orange?logo=grafana" />
+
+<!-- Project Info -->
+<img src="https://img.shields.io/github/stars/rinas-ck/devops-monitoring-project?style=flat" />
+<img src="https://img.shields.io/github/forks/rinas-ck/devops-monitoring-project" />
+<img src="https://img.shields.io/github/license/rinas-ck/devops-monitoring-project" />
+<img src="https://img.shields.io/badge/Deployment-Automated-brightgreen" />
+
+<!-- Profile -->
+<img src="https://komarev.com/ghpvc/?username=rinas-ck&color=blue" />
+
+</p>
+
+
 # 🚀 Production-Grade DevOps CI/CD Project on AWS
 
 A complete DevOps project demonstrating automated infrastructure provisioning, CI/CD pipelines, containerized deployment, and real-time monitoring using modern cloud-native tools.
